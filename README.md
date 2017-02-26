@@ -1,3 +1,3 @@
-# My Awesome Book
+# Spark源码剖析
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书是基于Spark2.1.0对spark core等模块进行源码分析。作为学习的记录，如有错误，欢迎指正。
